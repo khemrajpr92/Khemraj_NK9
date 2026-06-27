@@ -1,0 +1,8 @@
+Assessment 2: Translation with LLM - Evaluation Scores
+=========================================================
+LLM used for translation: Claude (Anthropic LLM)
+Number of sentences evaluated: 200
+
+BLEU score : 23.7456
+CHRF score : 49.8365
+TER score  : 66.7081
